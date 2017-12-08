@@ -3,7 +3,7 @@ namespace Admin\Controller;
 use Think\Controller;
 class RegisterController extends Controller {
 	/**
-     * 用户注册
+     	 * 用户注册
 	 * @Author    刘林
 	 * @DateTime  2017-06-18
 	 * @param  liu_code  验证码数据表   
