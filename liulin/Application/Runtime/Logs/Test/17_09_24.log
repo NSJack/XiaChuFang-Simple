@@ -1,0 +1,576 @@
+[ 2017-09-24T21:10:05+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.1934s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:11:25+08:00 ] 127.0.0.1 /liulin/Test/Recur
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载控制器:Recur
+
+[ 2017-09-24T21:11:32+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0526s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:12:56+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:13:11+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:13:14+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:13:56+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0393s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:14:24+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:16:08+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-09-24T21:20:59+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:21:10+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: pid D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:42:24+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-09-24T21:43:04+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+ERR: 参数错误或者未定义:list
+
+[ 2017-09-24T21:45:54+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:46:53+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index:  D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:47:12+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:47:13+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:47:14+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:52:14+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:52:39+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:52:44+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-09-24T21:58:42+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:58:44+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:59:20+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:59:32+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:59:41+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T21:59:56+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:00:01+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:00:40+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+ERR: syntax error, unexpected '&'
+
+[ 2017-09-24T22:01:31+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:07:59+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+ERR: Call to a member function fetch_array() on array
+
+[ 2017-09-24T22:08:13+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+ERR: Call to a member function fetch_array() on array
+
+[ 2017-09-24T22:08:15+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+ERR: Call to a member function fetch_array() on array
+
+[ 2017-09-24T22:08:16+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+ERR: Call to a member function fetch_array() on array
+
+[ 2017-09-24T22:08:46+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+ERR: Think\Model:fetch_array方法不存在！
+
+[ 2017-09-24T22:16:02+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:16:04+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:19:53+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:19:55+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:20:34+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:20:37+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+
+[ 2017-09-24T22:20:45+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\IndexController.class.php 第 25 行.
+

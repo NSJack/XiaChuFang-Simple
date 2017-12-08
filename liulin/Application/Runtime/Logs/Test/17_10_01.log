@@ -1,0 +1,252 @@
+[ 2017-10-01T09:07:34+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.1076s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 9 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 9 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'id' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 38 行.
+NOTIC: [8] Undefined index: level D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'name' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 39 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 41 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 42 行.
+NOTIC: [2] Illegal string offset 'level' D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Test\4cff9d0fa205a825bcc9fb63cbce5a90.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+

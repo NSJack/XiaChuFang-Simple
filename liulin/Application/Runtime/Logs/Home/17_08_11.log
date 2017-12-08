@@ -1,0 +1,1154 @@
+[ 2017-08-11T21:11:19+08:00 ] 127.0.0.1 /liulin/Home/Register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037929s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0702s ]
+SQL: SHOW COLUMNS FROM `liu_code` [ RunTime:0.0696s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001990s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007117s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:22+08:00 ] 127.0.0.1 /liulin/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:33+08:00 ] 127.0.0.1 /liulin/Home/Login/index/do/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0711s ]
+SQL: SHOW COLUMNS FROM `liu_log` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `liu_user` WHERE `username` = 'admn110' LIMIT 1   [ RunTime:0.0701s ]
+SQL: SELECT `password` FROM `liu_user` WHERE `username` = 'admn110' LIMIT 1   [ RunTime:0.0700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014567s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-08-11T21:11:36+08:00 ] 127.0.0.1 /liulin/Home/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:45+08:00 ] 127.0.0.1 /liulin/Home/Login/index/do/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0714s ]
+SQL: SHOW COLUMNS FROM `liu_log` [ RunTime:0.0712s ]
+SQL: SELECT * FROM `liu_user` WHERE `username` = 'admin110' LIMIT 1   [ RunTime:0.0713s ]
+SQL: SELECT `password` FROM `liu_user` WHERE `username` = 'admin110' LIMIT 1   [ RunTime:0.0712s ]
+SQL: INSERT INTO `liu_log` (`uid`,`success`,`intime`) VALUES ('31','1','1502457104') [ RunTime:0.1093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000888s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:46+08:00 ] 127.0.0.1 /liulin/Home/Auser/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0687s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0689s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0678s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0679s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:50+08:00 ] 127.0.0.1 /liulin/Home/Auser/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.1394s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0703s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0844s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.1359s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0704s ]
+SQL: SELECT * FROM `liu_dish` WHERE `uid` = 31 ORDER BY did desc  [ RunTime:0.1517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:52+08:00 ] 127.0.0.1 /liulin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000926s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:55+08:00 ] 127.0.0.1 /liulin/Home/Auser/dish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0726s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0695s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0691s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0687s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0695s ]
+SQL: SELECT * FROM `liu_dish` WHERE `uid` = 31 ORDER BY did desc  [ RunTime:0.0697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001500s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:11:55+08:00 ] 127.0.0.1 /liulin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:12:00+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0694s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0678s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0709s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0688s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0708s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0677s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0727s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001060s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:21:11+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0709s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0719s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0698s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0703s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0708s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0709s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0706s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015159s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:31:06+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0687s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0688s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0680s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0670s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0684s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0678s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0689s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:31:36+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0689s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0692s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0684s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.1530s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0692s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0688s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:31:52+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0698s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0698s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0691s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0689s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0692s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0691s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0692s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:32:45+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0695s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0698s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0688s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0686s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0690s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0708s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0691s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:33:11+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0685s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0686s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0680s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0673s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0678s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0676s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0680s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:33:38+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0690s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0687s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0683s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0683s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0690s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0691s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:33:52+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0698s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0694s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0691s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0707s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0692s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0693s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0693s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001203s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:34:30+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0737s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0730s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0703s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0731s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0705s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0704s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0703s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:37:02+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0723s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0707s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0738s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0697s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0708s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0710s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0722s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:38:38+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0686s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0679s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0679s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0677s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0678s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0679s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0681s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:39:24+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0688s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0685s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0681s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0695s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0699s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0683s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0685s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:40:42+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0712s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0718s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0702s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0710s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0703s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0727s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0703s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:43:20+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0700s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0696s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0695s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0695s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0698s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0696s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:43:41+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0696s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0689s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0690s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0691s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0697s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0688s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:47:47+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0714s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0710s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0702s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0712s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0703s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T21:51:00+08:00 ] 127.0.0.1 /liulin/Home/Dish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0695s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0689s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0712s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0691s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0690s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0690s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:32:31+08:00 ] 127.0.0.1 /liulin/Home/Auser/index/do/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0711s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0706s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0699s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0702s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016295s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:32:34+08:00 ] 127.0.0.1 /liulin/Home/Auser/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0705s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0701s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0698s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0697s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `liu_dish` WHERE `uid` = 31 ORDER BY did desc  [ RunTime:0.0722s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:32:35+08:00 ] 127.0.0.1 /liulin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014220s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:32:37+08:00 ] 127.0.0.1 /liulin/Home/Dish/showdish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0696s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0692s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0689s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0689s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0691s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0691s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0691s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0696s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0689s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0692s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:32:44+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0704s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0703s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0697s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0705s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0695s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0698s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0722s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0693s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0692s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:33:53+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0706s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0704s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0701s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0698s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0700s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0702s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0702s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0702s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0695s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:34:29+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0697s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0690s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0688s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0688s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0694s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0693s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0691s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0690s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0710s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:35:09+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0710s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0729s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0703s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0698s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0709s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0707s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0706s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0700s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0703s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0704s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:36:15+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0687s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0688s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0683s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0681s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0685s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0683s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0687s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0679s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0679s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:37:17+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0686s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0693s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0677s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0684s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0682s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0682s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0680s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0675s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0682s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0675s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:37:36+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.1019s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0707s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0696s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0695s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0700s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0703s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0711s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0696s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007665s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-08-11T22:47:10+08:00 ] 127.0.0.1 /liulin/Home/Dish/editDish/did/151.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `liu_user` [ RunTime:0.0715s ]
+SQL: SHOW COLUMNS FROM `liu_info` [ RunTime:0.0702s ]
+SQL: SELECT * FROM `liu_info` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0695s ]
+SQL: SELECT * FROM `liu_user` WHERE `uid` = 31 LIMIT 1   [ RunTime:0.0696s ]
+NOTIC: [8] Undefined variable: phone D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 1 D:\xampp\htdocs\www\Utk\web\liulin\Application\Home\Controller\BasisController.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `liu_dish` [ RunTime:0.0698s ]
+SQL: SHOW COLUMNS FROM `liu_stuff` [ RunTime:0.0697s ]
+SQL: SHOW COLUMNS FROM `liu_dishstep` [ RunTime:0.0697s ]
+SQL: SELECT * FROM `liu_dish` WHERE `did` = 151 LIMIT 1   [ RunTime:0.0715s ]
+SQL: SELECT * FROM `liu_stuff` WHERE `did` = 151  [ RunTime:0.0715s ]
+SQL: SELECT * FROM `liu_dishstep` WHERE `did` = 151  [ RunTime:0.0689s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+

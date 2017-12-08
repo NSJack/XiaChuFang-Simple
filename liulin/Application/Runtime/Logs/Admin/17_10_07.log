@@ -1,0 +1,1493 @@
+[ 2017-10-07T15:53:03+08:00 ] 127.0.0.1 /liulin/Admin/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T15:53:13+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `liu_admin` [ RunTime:0.0588s ]
+SQL: SHOW COLUMNS FROM `liu_log` [ RunTime:0.0574s ]
+SQL: SELECT * FROM `liu_admin` WHERE `username` = 'admin110' LIMIT 1   [ RunTime:0.0586s ]
+SQL: SELECT `password` FROM `liu_admin` WHERE `username` = 'admin110' LIMIT 1   [ RunTime:0.0567s ]
+SQL: INSERT INTO `liu_log` (`uid`,`success`,`intime`) VALUES ('1','1','1507362793') [ RunTime:0.0612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T15:53:15+08:00 ] 127.0.0.1 /liulin/Admin/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T15:54:36+08:00 ] 127.0.0.1 /liulin/Admin/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T15:54:39+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0542s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0537s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 0,10   [ RunTime:0.0534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000872s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:13:12+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0627s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0571s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0571s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:13:32+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0571s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','小吃') [ RunTime:0.0610s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 34 LIMIT 1   [ RunTime:0.0579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:13:41+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0558s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','酱') [ RunTime:0.0621s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 35 LIMIT 1   [ RunTime:0.0576s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:13:47+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0605s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','沙拉') [ RunTime:0.0622s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 36 LIMIT 1   [ RunTime:0.0584s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000014s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:13:53+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0580s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','凉菜') [ RunTime:0.0605s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 37 LIMIT 1   [ RunTime:0.0566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:21:11+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0532s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0576s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0553s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 0,10   [ RunTime:0.0525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:21:26+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0548s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','家常菜') [ RunTime:0.0598s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 38 LIMIT 1   [ RunTime:0.0554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:21:32+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0548s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','快手菜') [ RunTime:0.0650s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 39 LIMIT 1   [ RunTime:0.0547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:21:43+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0565s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','下饭菜') [ RunTime:0.0595s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 40 LIMIT 1   [ RunTime:0.0562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000014s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:21:50+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0563s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','素菜') [ RunTime:0.0593s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 41 LIMIT 1   [ RunTime:0.0555s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:53:25+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0548s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0553s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0549s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 0,10   [ RunTime:0.0580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:53:29+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0558s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0574s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0572s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:53:31+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0576s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0607s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0565s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 20,10   [ RunTime:0.0566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:53:32+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0561s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0567s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0569s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 30,10   [ RunTime:0.0564s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:53:35+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0614s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0674s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 0,10   [ RunTime:0.0578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:56:24+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0570s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0629s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0567s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0564s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:56:29+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0706s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0578s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 20,10   [ RunTime:0.0887s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:56:31+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0566s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0572s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0643s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 30,10   [ RunTime:0.0676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:56:40+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0549s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0550s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0548s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 0,10   [ RunTime:0.0557s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:56:59+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0570s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','下酒菜') [ RunTime:0.0595s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 42 LIMIT 1   [ RunTime:0.0567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:57:12+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','小清新') [ RunTime:0.0601s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 43 LIMIT 1   [ RunTime:0.0607s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:57:22+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0630s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','10','创意菜') [ RunTime:0.0609s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 44 LIMIT 1   [ RunTime:0.0594s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:57:37+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0567s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0572s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0561s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:57:51+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0550s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','三明治') [ RunTime:0.0583s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 45 LIMIT 1   [ RunTime:0.0550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:57:57+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0575s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','月饼') [ RunTime:0.0602s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 46 LIMIT 1   [ RunTime:0.0589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003934s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:58:09+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0560s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','蒸蛋') [ RunTime:0.0645s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 47 LIMIT 1   [ RunTime:0.0546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:58:28+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0550s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','寿司') [ RunTime:0.0605s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 48 LIMIT 1   [ RunTime:0.0550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:58:35+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0567s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','11','鸡蛋羹') [ RunTime:0.0631s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 49 LIMIT 1   [ RunTime:0.0591s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:58:57+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0551s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','早餐') [ RunTime:0.0581s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 50 LIMIT 1   [ RunTime:0.0551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:00+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0559s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','早餐') [ RunTime:0.0587s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 51 LIMIT 1   [ RunTime:0.0544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:04+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_delete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0572s ]
+SQL: DELETE FROM `liu_class` WHERE `classid` = 0 [ RunTime:0.0563s ]
+
+[ 2017-10-07T16:59:04+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000014s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: arr D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 5 行.
+NOTIC: [8] Undefined variable: arr D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 6 行.
+NOTIC: [8] Undefined variable: arr D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 7 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:15+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','下午茶') [ RunTime:0.0619s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 52 LIMIT 1   [ RunTime:0.0569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:22+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0581s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','便当') [ RunTime:0.0608s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 53 LIMIT 1   [ RunTime:0.0577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:32+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0591s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','圣诞节') [ RunTime:0.0578s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 54 LIMIT 1   [ RunTime:0.0555s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:40+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0586s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','深夜食堂') [ RunTime:0.0584s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 55 LIMIT 1   [ RunTime:0.0544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:50+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0558s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','情人节') [ RunTime:0.0619s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 56 LIMIT 1   [ RunTime:0.0550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T16:59:56+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0567s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','12','宵夜') [ RunTime:0.0604s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 57 LIMIT 1   [ RunTime:0.0567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:00:00+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0581s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0586s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0571s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0587s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:00:24+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0540s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','13','减肥') [ RunTime:0.0576s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 58 LIMIT 1   [ RunTime:0.0554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:00:29+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','13','美容') [ RunTime:0.0602s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 59 LIMIT 1   [ RunTime:0.0563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:00:47+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0623s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','13','润肺抗燥') [ RunTime:0.0606s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 60 LIMIT 1   [ RunTime:0.0584s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:00:53+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0567s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','13','补血') [ RunTime:0.0611s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 61 LIMIT 1   [ RunTime:0.0573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:01:10+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0569s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','14','儿童') [ RunTime:0.0601s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 62 LIMIT 1   [ RunTime:0.0567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:01:18+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0568s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','14','婴幼儿') [ RunTime:0.0597s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 63 LIMIT 1   [ RunTime:0.0558s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:01:23+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0594s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','14','老人') [ RunTime:0.0597s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 64 LIMIT 1   [ RunTime:0.0577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:01:32+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0570s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','14','孕产妇') [ RunTime:0.0602s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 65 LIMIT 1   [ RunTime:0.0567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:01:56+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/class_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0575s ]
+SQL: INSERT INTO `liu_class` (`classid`,`parentid`,`classname`) VALUES ('0','16','味蕾工坊') [ RunTime:0.0578s ]
+SQL: SELECT * FROM `liu_class` WHERE `classid` = 66 LIMIT 1   [ RunTime:0.0545s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 2 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 10 行.
+NOTIC: [8] Undefined variable: item D:\xampp\htdocs\www\Utk\web\liulin\Application\Runtime\Cache\Admin\537eba371aae32f374c84ef30d640ddc.php 第 14 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:02:00+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0590s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0588s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0569s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:03:03+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0574s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0569s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0593s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:03:16+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0584s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0592s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0576s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:03:30+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0620s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0566s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
+[ 2017-10-07T17:03:59+08:00 ] 127.0.0.1 /liulin/index.php/Admin/Class/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+SQL: SHOW COLUMNS FROM `liu_class` [ RunTime:0.0557s ]
+SQL: SELECT * FROM `liu_class`  [ RunTime:0.0592s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liu_class` WHERE ( parentid>=0 ) LIMIT 1   [ RunTime:0.0571s ]
+SQL: SELECT `classid`,`parentid`,`classname`,`intime`,`uptime` FROM `liu_class` LIMIT 10,10   [ RunTime:0.0552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+

@@ -1,0 +1,60 @@
+[ 2017-10-02T08:14:47+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag name=&quot;data['level']&quot; value=&quot;2&quot;0 /&gt;&lt;/tpl&gt; D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                                         ^ D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag name=&quot;data['level']&quot; value=&quot;2&quot;0 /&gt;&lt;/tpl&gt; D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                                         ^ D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : name="data['level']" value="2"0
+
+[ 2017-10-02T16:47:09+08:00 ] 127.0.0.1 /liulin/Test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag name=&quot;data['level']&quot; value=&quot;2&quot;0 /&gt;&lt;/tpl&gt; D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                                         ^ D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag name=&quot;data['level']&quot; value=&quot;2&quot;0 /&gt;&lt;/tpl&gt; D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():                                         ^ D:\xampp\htdocs\www\Utk\web\liulin\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : name="data['level']" value="2"0
+
+[ 2017-10-02T16:47:14+08:00 ] 127.0.0.1 /liulin/Test/Ajax
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+NOTIC: [2] Declaration of Test\Controller\AjaxController::get() should be compatible with Think\Controller::get($name = '') D:\xampp\htdocs\www\Utk\web\liulin\Application\Test\Controller\AjaxController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ajax` [ RunTime:0.0905s ]
+SQL: SELECT * FROM `ajax`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+NOTIC: [2] dirname() expects parameter 2 to be integer, string given D:\xampp\htdocs\www\Utk\web\liulin\index.php 第 31 行.
+
